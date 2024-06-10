@@ -18,10 +18,10 @@ contact:
 ```
 
 #### I feel confident with the following programming languages
-[![Programming Languajes](https://skillicons.dev/icons?i=py,java,koltin,go)](https://skillicons.dev)
+[![Programming Languajes](https://skillicons.dev/icons?i=py,java,kotlin,go)](https://skillicons.dev)
 
 #### I really love to use container technologies, specially
-[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,aws)](https://skillicons.dev)
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,datadog,postgres,redis)](https://skillicons.dev)
 
 #### Here are some stats about me 😃
 <a href="https://github.com/anuraghazra/github-readme-stats">
