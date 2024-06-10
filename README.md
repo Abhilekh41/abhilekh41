@@ -21,7 +21,7 @@ contact:
 [![Programming Languajes](https://skillicons.dev/icons?i=py,java,kotlin,go)](https://skillicons.dev)
 
 #### I really love to use container technologies, specially
-[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,aws,datadog,postgres,redis)](https://skillicons.dev)
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,postgres,redis)](https://skillicons.dev)
 
 #### Here are some stats about me 😃
 <a href="https://github.com/anuraghazra/github-readme-stats">
