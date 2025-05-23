@@ -18,7 +18,7 @@ contact:
 ```
 
 #### I feel confident with the following programming languages
-[![Programming Languajes](https://skillicons.dev/icons?i=py,java,kotlin,go)](https://skillicons.dev)
+[![Programming Languajes](https://skillicons.dev/icons?i=py,java,kotlin,go,nodejs)](https://skillicons.dev)
 
 #### I really love to use container technologies, specially
 [![Containers](https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,postgres,redis)](https://skillicons.dev)
