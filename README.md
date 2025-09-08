@@ -3,7 +3,7 @@
 ---
 name: Abhilekh Sahay
 role: Backend Engineer
-experience: 8+ years
+experience: 10+ years
 skills:
   - 💻 Computer Science
   - ☁️ Cloud Computing
