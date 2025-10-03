@@ -1,5 +1,3 @@
-<img align ="left" src="https://komarev.com/ghpvc/?username=abhilekh41&label=Profile%20views&color=0e75b6&style=flat" alt="abhilekh41">
-
 ```yaml
 # myProfile.yaml
 ---
@@ -36,3 +34,5 @@ contact:
 plusiv/plusiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img align ="center" src="https://komarev.com/ghpvc/?username=abhilekh41&label=Profile%20views&color=0e75b6&style=flat" alt="abhilekh41">
