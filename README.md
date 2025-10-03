@@ -1,3 +1,5 @@
+<img align ="left" src="https://komarev.com/ghpvc/?username=abhilekh41&label=Profile%20views&color=0e75b6&style=flat" alt="abhilekh41">
+
 ```yaml
 # myProfile.yaml
 ---
@@ -16,7 +18,6 @@ contact:
   github: https://github.com/abhilekh41
   linkedin: https://www.linkedin.com/in/abhilekhsahay
 ```
-<img align ="left" src="https://komarev.com/ghpvc/?username=abhilekh41&label=Profile%20views&color=0e75b6&style=flat" alt="abhilekh41">
 
 #### I feel confident with the following programming languages
 [![Programming Languajes](https://skillicons.dev/icons?i=py,java,kotlin,go,nodejs,rust)](https://skillicons.dev)
